@@ -3,6 +3,7 @@
 ## 投影片
 
 - https://www.slideshare.net/secret/eOKA8i71oCcxlt
+- 密碼: twm
 
 ## 安裝環境: 
 
