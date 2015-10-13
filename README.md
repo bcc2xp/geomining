@@ -1,5 +1,9 @@
 # 地理資訊分析
 
+## 投影片
+
+- https://www.slideshare.net/secret/eOKA8i71oCcxlt
+
 ## 安裝環境: 
 
 本次使用Anaconda 所提供的Python 2.7 做為範例 
