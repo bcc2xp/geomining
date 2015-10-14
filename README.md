@@ -16,7 +16,7 @@
 
 - Anaconda: https://www.continuum.io/downloads
 - OSGeo4w: http://trac.osgeo.org/osgeo4w/
-
+- Google Earth: https://www.google.com.tw/intl/zh-TW/earth/download/ge/agree.html
 
 ## 資料來源
 
